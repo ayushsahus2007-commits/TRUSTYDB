@@ -1,0 +1,14 @@
+package.json
+package-lock.json
+node_modules/
+src/
+dist/
+.env
+.env.example
+Dockerfile
+render.yaml
+.dockerignore
+.gitignore
+sql/
+test/
+TRUSTYDB_SOURCE_*.csv

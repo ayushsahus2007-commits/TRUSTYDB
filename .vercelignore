@@ -1,0 +1,14 @@
+backend/src/
+backend/package.json
+backend/package-lock.json
+backend/node_modules/
+backend/dist/
+backend/.env
+backend/.env.example
+backend/Dockerfile
+backend/render.yaml
+backend/.dockerignore
+backend/.gitignore
+backend/sql/
+backend/test/
+backend/TRUSTYDB_SOURCE_*.csv
